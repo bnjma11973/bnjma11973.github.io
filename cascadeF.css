@@ -1,0 +1,16 @@
+*{
+    font-family: 'Oswald';
+    font-stretch: semi-expanded;
+}
+body{
+    margin: 30px; 
+}
+.fondo{
+    height: 400px;
+    margin: 0%;
+    padding: 10px 20px;
+    background: gray url('clouds imagen.jpg') repeat right/25%;
+}
+.PART{
+    padding: 10px;
+}
